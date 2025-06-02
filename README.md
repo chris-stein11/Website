@@ -8,11 +8,12 @@
 
 - 🎓 Graduate Student, MS in Business Analytics & Info Management @ Purdue University  
 - 🎓 Cum Laude, BSc in Data Science & Economics @ Butler University  
-- 💼 Business Information Analyst II @ Elevance Health (Agentic AI + Automation)  
+- 💼 Business Information Analyst II @ Elevance Health — driving automation at scale in a Fortune 500 setting  
 - 🛰️ Consultant for a Top Aerospace Firm (via Purdue Co-Op)  
 - 🏛️ Former Analyst @ Indiana State Senate — improved public site performance 50%  
 - 🌱 Founder of TEER Inc., a nonprofit connecting seniors through tech-driven letter-writing  
 - 🧠 1st Place — Microsoft & INFORMS Global AI for Good Case Competition  
+- 🏢 2x Fortune 500 automation leader — delivering high-impact RPA and AI solutions across industries  
 
 ---
 
@@ -32,3 +33,4 @@
 ---
 
 > Passionate about building scalable, ethical, and impactful AI and automation systems — let’s collaborate!
+
