@@ -10,7 +10,7 @@
 - 🎓 Cum Laude, BSc in Data Science & Economics @ Butler University  
 - 💼 Business Information Analyst II @ Elevance Health — driving automation at scale in a Fortune 500 setting  
 - 🛰️ Consultant for a Top Aerospace Firm (via Purdue Co-Op)  
-- 🏛️ Former Analyst @ Indiana State Senate — improved public site performance 50%  
+- 🏛️ Former Analyst @ Indiana State Senate — improved public site and bill realted performance
 - 🌱 Founder of TEER Inc., a nonprofit connecting seniors through tech-driven letter-writing  
 - 🧠 1st Place — Microsoft & INFORMS Global AI for Good Case Competition  
 - 🏢 2x Fortune 500 automation leader — delivering high-impact RPA and AI solutions across industries  
