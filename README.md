@@ -7,8 +7,8 @@
 ## 🚀 About Me
 
 - 🎓 Graduate Student, MS in Business Analytics & Info Management @ Purdue University  
-- 🎓 Cum Laude, BSc in Data Science & Economics @ Butler University  
-- 💼 Business Information Analyst II @ Elevance Health — driving automation at scale in a Fortune 500 setting  
+- 🎓 BSc in Data Science & Economics @ Butler University — Cum Laude, Division I Athlete (Track & Field)
+- 💼 Business Information Analyst II @ Elevance Health — driving automation at scale
 - 🛰️ Consultant for a Top Aerospace Firm (via Purdue Co-Op)  
 - 🏛️ Former Analyst @ State of Indiana — worked in the Senate; improved legislative website speed and accuracy of bill-related data  
 - 🌱 Founder of TEER Inc., a nonprofit connecting seniors through tech-driven letter-writing  
